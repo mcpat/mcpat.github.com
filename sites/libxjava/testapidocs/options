@@ -1,0 +1,23 @@
+-classpath
+'/home/marcel/work/java-microedition-libraries/libxjava/target/classes:/home/marcel/work/java-microedition-libraries/libxjava/target/test-classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/test-classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cdc/target/classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cdc/target/test-classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-jse5/target/classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-jse5/target/test-classes:/home/marcel/.m2/repository/com/github/mcpat/apistubs/cdc-1.1.2-stub/1.0/cdc-1.1.2-stub-1.0.jar:/home/marcel/.m2/repository/com/github/mcpat/apistubs/cldc-1.1-stub/1.0/cldc-1.1-stub-1.0.jar:/home/marcel/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2010 <a href="http://mcpat.github.com">Marcel Patzlaff</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/marcel/work/java-microedition-libraries/libxjava/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lib-Cross-Java 0.1 Test API'
+-use
+-version
+-windowtitle
+'Lib-Cross-Java 0.1 Test API'

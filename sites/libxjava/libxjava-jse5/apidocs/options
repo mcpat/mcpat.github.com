@@ -1,0 +1,29 @@
+-classpath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-jse5/target/classes'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-jse5/target/generated-sources'
+-author
+-bottom
+'Copyright &#169; 2010 <a href="http://mcpat.github.com">Marcel Patzlaff</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-jse5/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lib-Cross-Java JSE5 0.1 API'
+-link
+'http://java.sun.com/j2se/1.5.0/docs/api'
+-linkoffline
+'http://mcpat.github.com/sites/libxjava/libxjava-cldc/apidocs' '/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/site/apidocs'
+-linkoffline
+'http://mcpat.github.com/sites/libxjava/libxjava-cdc/apidocs' '/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cdc/target/site/apidocs'
+-use
+-version
+-windowtitle
+'Lib-Cross-Java JSE5 0.1 API'

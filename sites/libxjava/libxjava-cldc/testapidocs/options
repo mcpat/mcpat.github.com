@@ -1,0 +1,27 @@
+-bootclasspath
+'/home/marcel/.m2/repository/com/github/mcpat/apistubs/cldc-1.1-stub/1.0/cldc-1.1-stub-1.0.jar'
+-classpath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/classes:/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/test-classes:/home/marcel/.m2/repository/com/github/mcpat/apistubs/cldc-1.1-stub/1.0/cldc-1.1-stub-1.0.jar:/home/marcel/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2010 <a href="http://mcpat.github.com">Marcel Patzlaff</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lib-Cross-Java CLDC 0.1 Test API'
+-link
+'http://download.oracle.com/javame/config/cldc/ref-impl/cldc1.1/jsr139'
+-use
+-version
+-windowtitle
+'Lib-Cross-Java CLDC 0.1 Test API'

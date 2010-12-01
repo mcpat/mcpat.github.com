@@ -1,0 +1,29 @@
+-bootclasspath
+'/usr/lib/jvm/java-6-sun-1.6.0.20/jre/lib/rt.jar'
+-classpath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cdc/target/classes:/home/marcel/.m2/repository/com/github/mcpat/apistubs/cdc-1.1.2-stub/1.0/cdc-1.1.2-stub-1.0.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cdc/target/generated-sources'
+-author
+-bottom
+'Copyright &#169; 2010 <a href="http://mcpat.github.com">Marcel Patzlaff</a>. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cdc/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Lib-Cross-Java CDC 0.1 API'
+-link
+'http://download.oracle.com/javame/config/cdc/ref-impl/cdc1.1.2/jsr218'
+-linkoffline
+'http://mcpat.github.com/sites/libxjava/libxjava-cldc/apidocs' '/home/marcel/work/java-microedition-libraries/libxjava/libxjava-cldc/target/site/apidocs'
+-use
+-version
+-windowtitle
+'Lib-Cross-Java CDC 0.1 API'
